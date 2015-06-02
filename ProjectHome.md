@@ -1,0 +1,7 @@
+The Network Structure of Exploration and Exploitation
+David Lazer and Allan Friedman
+Administrative Science Quarterly 52:4 (2007)
+
+Whether as team members brainstorming or cultures experimenting with new technologies, problem solvers communicate and share ideas. This paper examines how the structure of communication networks among actors can affect system-level performance. We present an agent-based computer simulation model of information sharing in which the less successful emulate the more successful. Results suggest that when agents are dealing with a complex problem, the more efficient the network at disseminating information, the better the short-run but the lower the long-run performance of the system. The dynamic underlying this result is that an inefficient network maintains diversity in the system and is thus better for exploration than an efficient network, supporting a more thorough search for solutions in the long run. For intermediate time frames, there is an inverted-U relationship between connectedness and performance, in which both poorly and well-connected systems perform badly, and moderately connected systems perform best. This curvilinear relationship between connectivity and group performance can be seen in several diverse instances of organizational and social behavior.
+
+For code of the simulation components, and the execution files that produced the results in (Lazer & Friedman 2007), please go to http://parallelproblemsolving.googlepages.com/
